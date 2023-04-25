@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/ahmed salah](https://www.facebook.com/profile.php?id=100012677855792)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed salah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012677855792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed salah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
